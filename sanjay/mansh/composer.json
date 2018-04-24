@@ -1,0 +1,19 @@
+{
+   "name":"sanjay/mansh",
+   "description":"Sanjay made this package for mansh yadav",
+   "author":
+            {
+               "name":"Sanjay Yadav",
+                "address":"Shimli",
+                 "phone":9068294747,
+                 "email":"yadav.sanjay20yadav@gmail.com"
+            } ,
+  "autoload": 
+            {
+             "psr-4":
+                {
+                   "Yadav\\":"yadav/"
+                }
+            }
+  
+}
